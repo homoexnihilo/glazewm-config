@@ -121,9 +121,17 @@ window_behavior:
 
 workspaces:
   - name: "1"
+    display_name: "Misc"
+    bind_to_monitr: 0
   - name: "2"
+    display_name: "Main"
+    bind_to_monitor: 1
   - name: "3"
+    display_name: "Secondary"
+    bind_to_monitor: 2
   - name: "4"
+    display_name: "Float"
+    bind_to_monitor: 1
   - name: "5"
   - name: "6"
   - name: "7"
